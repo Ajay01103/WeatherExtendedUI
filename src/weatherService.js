@@ -1,4 +1,4 @@
-const API_KEY = "517ae54a987bb33cffcbaae76b27f9ed";
+const API_KEY = "YOUR API KEY HERE OBTAIN IT FROM openweathermap";
 
 const makeIconURL = (iconId) =>
   `https://openweathermap.org/img/wn/${iconId}@2x.png`;
